@@ -1,5 +1,5 @@
 body{
-    background-image: url(tiranga.jpeg);
+    background-image: url(backimage2.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -36,6 +36,14 @@ th, td{
     background-color:rgb(197, 211, 211);
     border-color:rgb(88, 80, 70);
     border-style:outset;
+}
+
+#para{
+    color: aliceblue;
+}
+
+#para2{
+    color:#f0f0f0;
 }
 
 img{
